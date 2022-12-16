@@ -9,7 +9,7 @@
 ![redis badge](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
 ![docker badge](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 
-![logo](./logos/FruitNinja.jpeg)
+![FruitNinja](https://user-images.githubusercontent.com/89679621/208042826-f7b33b04-47a9-4fc0-a5d4-30aef1e51668.jpeg)
 
 [깃헙 레포 바로가기](https://github.com/linda2927/FruitNinja.git)
 
